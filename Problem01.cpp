@@ -34,6 +34,6 @@ int main()
             count++;
         }
     }
-    cout<<"The number of distinct elements in the array is: "<<count<<endl;
+    cout<<"The numbers of distinct elements in the array is: "<<count<<endl;
     return 0;
 }
